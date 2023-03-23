@@ -1,0 +1,1 @@
+FQDN = "https://short.ly"
